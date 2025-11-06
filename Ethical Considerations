@@ -1,0 +1,16 @@
+Ethical Considerations
+
+Data Privacy:
+
+No personal data stored unless user consents
+API keys and user inputs handled securely
+
+Explainability:
+
+Agents provide rationale for decisions (e.g., why a date was changed)
+Budget breakdowns and trade-offs are shown
+
+Bias Mitigation:
+
+Avoids recommending only luxury or popular options
+Includes diverse, inclusive travel suggestions
