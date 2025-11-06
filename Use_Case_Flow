@@ -1,0 +1,25 @@
+Simple Case: Budget Trip to Goa
+User inputs: ₹25,000 budget, 3 days, Goa
+
+Orchestrator triggers:
+
+1. Budget Agent → allocates funds
+2. Transport Agent → suggests road options
+3. Weather Agent → checks July conditions
+4. Itinerary Agent compiles plan
+
+Output: Optimized itinerary with budget breakdown
+
+Advanced Case: Flight Delay + New Year Trip
+User inputs: Goa trip during New Year, flight delayed 6 hours
+
+Orchestrator triggers:
+
+1. Event Agent → flags peak season
+2. Weather Agent → confirms suitability
+3. Budget Agent → adjusts for surge pricing
+4. Itinerary Agent → re-plans activities
+5. Notification Agent → alerts hotel, transport
+6. Optimization Agent balances cost vs comfort
+
+Output: Updated itinerary + stakeholder notifications
