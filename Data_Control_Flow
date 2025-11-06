@@ -1,0 +1,7 @@
+User → UI → Orchestrator Agent
+        ↓
+  ┌───────────────┐
+  │ Shared Context│
+  └───────────────┘
+        ↓
+Agents ↔ APIs → Results → Orchestrator → Final Plan → UI
