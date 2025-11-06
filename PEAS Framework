@@ -1,0 +1,6 @@
+Element	          Description
+
+Performance	      Trip satisfaction, budget adherence, itinerary accuracy, user feedback
+Environment	      Real-world travel data, user preferences, weather, transport, events
+Actuators	        API calls (weather, booking), itinerary updates, notifications
+Sensors	          User inputs, real-time API responses, delay alerts, seasonal data
